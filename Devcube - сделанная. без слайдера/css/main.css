@@ -130,13 +130,12 @@ font-size: 16px;
     margin-right: auto;
     display: flex;
     justify-content: center;
-    padding-top: 15px;
 }
 
 .circle_star{
     width:50%;
     height:50%;
-    
+    margin-top:15px;
 }
 
 .audience_block_inner_content{
