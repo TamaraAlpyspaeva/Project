@@ -132,6 +132,11 @@ font-size: 16px;
     justify-content: center;
 }
 
+.circle_star{
+    width:50%;
+    height:50%;
+}
+
 .audience_block_inner_content{
     text-align: center;
     margin-top: 105px;
