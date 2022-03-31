@@ -130,7 +130,7 @@ font-size: 16px;
     margin-right: auto;
     display: flex;
     justify-content: center;
-    margin: auto 0;
+    vertical-align: middle;
 }
 
 .circle_star{
